@@ -1,26 +1,13 @@
-p.intro{
-  text-align: center;
-  font-family: cursive;
-  border: solid;
-  border-width: medium;
-}
-
-h2.intro{
-  font-family: cursive;
+.another{
   font-size: 50px;
   text-decoration: overline;
-
-
 }
 
-img.intro{
-  padding-bottom: 50px;
-  padding-top: 50px;
-    border-width: medium;
-    border: solid;
-}
 
 .intro{
   color: red;
   text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  font-family: cursive;
 }
